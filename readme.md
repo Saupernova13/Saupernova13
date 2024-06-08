@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer!</h3>
 
 <div align="center">
-  <img src="https://animesher.com/orig/0/29/299/2994/animesher.com_dangan-ronpa-monokuma-danganronpa-299435.gif" alt="monokuma_with_a_honey_pot" />
+(Images/monokuma_honeypot.gif)
 </div>
 
 <p align="center">
