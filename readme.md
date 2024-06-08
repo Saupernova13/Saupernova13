@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer!</h3>
 
 <div align="center">
-![Description](res/monokuma_honeypot.gif)
+![GIF](https://github.com/Saupernova13/Saupernova13/blob/main/res/monokuma_honeypot.gif)
 </div>
 
 <p align="center">
