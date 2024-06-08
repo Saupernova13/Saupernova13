@@ -1,7 +1,9 @@
 <h1 align="center">Heyyos!👋, I'm Sauraav</h1>
 <h3 align="center">An Aspiring Software Engineer!</h3>
 
-![monokuma_honeypot](https://github.com/Saupernova13/Saupernova13/assets/69242316/3da35eaa-26af-48bc-8c1a-2964432b09fd)
+<p align="center">
+  <img src="https://github.com/Saupernova13/Saupernova13/assets/69242316/3da35eaa-26af-48bc-8c1a-2964432b09fd" alt="monokuma_honeypot"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saupernova13&label=Profile%20views&color=0e75b6&style=flat" alt="saupernova13" />
