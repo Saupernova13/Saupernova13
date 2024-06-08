@@ -2,7 +2,7 @@
 <h3 align="center">An Aspiring Software Engineer!</h3>
 
 <div align="center">
-(Images/monokuma_honeypot.gif)
+(res/monokuma_honeypot.gif)
 </div>
 
 <p align="center">
