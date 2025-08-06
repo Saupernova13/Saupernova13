@@ -1,5 +1,5 @@
 <h1 align="center">Heyyos!👋, I'm Sauraav</h1>
-<h3 align="center">An Aspiring Software Engineer!</h3>
+<h3 align="center">A Graduate Software Developer!</h3>
 
 <p align="center">
   <img src="https://github.com/Saupernova13/Saupernova13/assets/69242316/3da35eaa-26af-48bc-8c1a-2964432b09fd" alt="monokuma_honeypot"/>
@@ -13,7 +13,7 @@
 
 ### 💬 About Me
 - 🌱 I’m currently learning: **AI and Machine Learning**
-- 💬 Ask me about: **C#, WPF, Blender, GPT**
+- 💬 Ask me about: **C#, WPF, Blender, AI**
 - 📫 How to reach me: **sauraavjayrajh@gmail.com**
 - 🎈 My hobbies: **Programming, 3D Modelling, Modding, Poetry**
 - ❤️ Always on my mind: **Roo**
